@@ -1,15 +1,21 @@
 <h1 align="center">Hi 👋, I'm Turgay YILMAZ</h1>
-<h3 align="center">Computer Engineer</h3>
-<h3 align="center">Student @Patika.dev</h3>
+<h3 align="center">Java Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=turqayyilmaz&label=Profile%20views&color=0e75b6&style=flat" alt="turqayyilmaz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=turqayyilmaz" alt="turqayyilmaz" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/https://twitter.com/turqayyilmaz" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/turqayyilmaz?logo=twitter&style=for-the-badge" alt="https://twitter.com/turqayyilmaz" /></a> </p>
+
+- 🌱 I’m currently learning **Java Spring Boot**
+
+- 💬 Ask me about **Spring, Spring Boot, NodeJs**
+
+- 📫 How to reach me **turqayyilmaz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/https://twitter.com/turqayyilmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/turqayyilmaz" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/turqayyilmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="turqayyilmaz" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/turqayyilmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="turqayyilmaz" height="30" width="40" /></a>
 </p>
